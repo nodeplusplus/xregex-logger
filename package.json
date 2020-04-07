@@ -1,7 +1,7 @@
 {
-  "name": "@nodeplusplus/xregex-yml",
-  "version": "1.0.2",
-  "description": "Parse YAML file with some defined types",
+  "name": "@nodeplusplus/xregex-logger",
+  "version": "1.0.0",
+  "description": "Just a simple logger with attention at performance",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
@@ -21,7 +21,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nodeplusplus/xregex-yml.git"
+    "url": "git@github.com:nodeplusplus/xregex-logger.git"
   },
   "keywords": [
     "etl"
